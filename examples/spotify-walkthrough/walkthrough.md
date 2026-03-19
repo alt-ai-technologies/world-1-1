@@ -390,7 +390,7 @@ We're probably approaching the natural end of a first session. The user has: sig
 
 ## First Coverage Report
 
-### The Moves
+### Spotify First-Time UX "Moves"
 
 | # | Move | Status | Notes |
 |---|------|--------|-------|
