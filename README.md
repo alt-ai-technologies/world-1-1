@@ -1,5 +1,7 @@
 # World 1-1
 
+![World 1-1](world-1-1.png)
+
 Evaluate your product's first-time user experience the way Super Mario Bros. World 1-1 teaches players everything in its first level -- by doing, not by reading.
 
 In World 1-1, you learn every move you need to beat the entire game. This skill applies that same lens to your product: by the time a new user finishes their first session, have they learned every move they need to accomplish the product's most important goals? And did they learn by doing?
@@ -49,3 +51,7 @@ See a [full walkthrough of Spotify's first-time experience](examples/spotify-wal
 ## License
 
 MIT
+
+---
+
+Map image courtesy of [NES Maps](https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosWorld1-1Map.html).
