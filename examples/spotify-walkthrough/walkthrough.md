@@ -8,9 +8,7 @@ This is a real walkthrough of Spotify's new user experience using `/world-1-1 wa
 
 ## Setup
 
-> **Human:** *[Drops first screenshot.]*
-
-> **Claude:** Before I react -- what's the goal for this review? Something like "does a new user learn to discover and play music in their first session"? Or something more specific?
+> **Claude:** Before I start -- what's the goal for this review? Something like "does a new user learn to discover and play music in their first session"? Or something more specific?
 
 > **Human:** The user should definitely learn that they can play any song they want, on demand, for free. And ideally, they take at least one investment action (playlist create, save) since those are what lead to retention. To the extent they learn about other value props (personalization, podcasts, cross-device playback) those are nice to haves, but not necessary on day one. Day one is play something (anything!), and invest in THIS service.
 
@@ -48,7 +46,7 @@ This is a good first screen. One direction, like "right" in 1-1. No decisions to
 
 ## Screen 2: Sign Up Options
 
-> *[Screenshot: "Sign up to start listening" with Continue with email, Google, Apple buttons.]*
+> *[Screenshot: "Sign up to start listening" with Continue with email, Google, Apple buttons.] Removed for the walkthrough.*
 
 **What I see.** "Sign up to start listening." Three ways to sign up -- email (green, loud), Google, Apple. Standard stuff. I've seen this pattern on every app.
 
@@ -62,7 +60,7 @@ This screen is fine -- it's a tollbooth, not a teaching moment. No moves to lear
 
 ## Screens 3-4: Account Creation
 
-> *[Screenshots: password creation, name entry, terms.]*
+> *[Screenshots: password creation, name entry, terms.] Removed for the walkthrough.*
 
 Still the signup tollbooth -- nothing to evaluate here. Skip through all the account creation steps and show me where I land once I'm actually "in" the app.
 
