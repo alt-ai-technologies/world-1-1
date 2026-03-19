@@ -1,8 +1,8 @@
 # World 1-1
 
-Evaluate your product's first-time user experience the way Super Mario Bros. World 1-1 teaches players everything in its first level — by doing, not by reading.
+Evaluate your product's first-time user experience the way Super Mario Bros. World 1-1 teaches players everything in its first level -- by doing, not by reading.
 
-In World 1-1, you learn every move you need to beat the entire game — by playing, not by reading. This skill applies that same lens to your product: by the time a new user finishes their first session, have they learned every move they need? And did they learn by doing?
+In World 1-1, you learn every move you need to beat the entire game. This skill applies that same lens to your product: by the time a new user finishes their first session, have they learned every move they need to accomplish the product's most important goals? And did they learn by doing?
 
 ## Add to your project
 
@@ -36,9 +36,9 @@ The review walks through your first-session user flow and produces a coverage re
 
 ## How it works
 
-**Code mode** (`/world-1-1`): Reads your codebase and traces through the actual screens a new user encounters. It identifies every "move" (distinct action) your product requires, then checks whether your first session teaches each one — and whether it teaches through design or through words.
+**Code mode** (`/world-1-1`): Reads your codebase and traces through the actual screens a new user encounters. It identifies every "move" (distinct action) your product requires to achieve your product's most important goals, then checks whether your first session teaches each one; and whether it teaches through design or through words.
 
-**Walkthrough mode** (`/world-1-1 walkthrough`): For products you don't have code access to. You feed screenshots one at a time, and Claude plays the confused new user — saying what it sees and what it would tap *before* you show it what's next. You control the hands, Claude controls the intent.
+**Walkthrough mode** (`/world-1-1 walkthrough`): For products you don't have code access to. You feed screenshots one at a time, and Claude plays the confused new user — saying what it sees and what it would tap *before* you show it what's next.
 
 It's opinionated. Words are a failure of design. If you have to explain it, the level is wrong.
 
