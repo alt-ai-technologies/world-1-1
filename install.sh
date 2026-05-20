@@ -2,7 +2,7 @@
 set -euo pipefail
 
 SKILL_NAME="world-1-1"
-REPO="ajaykalia/world-1-1"
+REPO="alt-ai-technologies/world-1-1"
 RAW_URL="https://raw.githubusercontent.com/$REPO/main/skills/$SKILL_NAME/SKILL.md"
 DEST="$HOME/.claude/skills/$SKILL_NAME"
 TMP_DIR=$(mktemp -d)
