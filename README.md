@@ -8,7 +8,13 @@ In World 1-1, you learn every move you need to beat the entire game. This skill 
 
 ## Add to your project
 
-Copy the skill into your project's `.claude/skills/` directory:
+To install this Claude Skill run this in the terminal:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/alt-ai-technologies/world-1-1/main/install.sh | bash
+```
+
+Or copy the skill into your project's `.claude/skills/` directory manually:
 
 ```bash
 git clone https://github.com/alt-ai-technologies/world-1-1.git /tmp/world-1-1
